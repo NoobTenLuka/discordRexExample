@@ -1,0 +1,1 @@
+deno.exe run --allow-net --allow-read --allow-env bot.ts
