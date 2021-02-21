@@ -1,5 +1,5 @@
 import { config } from "https://deno.land/x/dotenv/mod.ts";
-import { Client, ClientOptions } from "../discordRex/mod.ts";
+import { Client, ClientOptions } from "https://raw.githubusercontent.com/NoobTenLuka/discordRex/master/mod.ts";
 
 const options: ClientOptions = {debug: true} 
 
